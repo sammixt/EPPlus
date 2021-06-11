@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>/CS:"Server=ESC2581\SQLEXPRESS%3bInitial Catalog=RPA%3bTrusted_Connection=True%3b" /Q:"SELECT TOP %28100%29 %2a FROM [RPA].[dbo].[ATM_FLEXCUBE_GROUP]" /FP:"C:\Users\esc\Documents\test.csv" /SN:"ATM_SHEET" /NF:"" /DTC:"" /DIF:1 /RS:1 /OT:2</StartArguments>
+  </PropertyGroup>
+</Project>

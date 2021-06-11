@@ -1,0 +1,13 @@
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\EPPlusJob.exe.config
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\EPPlusJob.exe
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\EPPlusJob.pdb
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\ConsoleCommon.dll
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\EPPlus.dll
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\EPPlus.xml
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\obj\Debug\EPPlusJob.csprojAssemblyReference.cache
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\obj\Debug\EPPlusJob.csproj.CopyComplete
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\obj\Debug\EPPlusJob.exe
+C:\Users\esc\source\repos\EPPlusJob\EPPlusJob\obj\Debug\EPPlusJob.pdb
